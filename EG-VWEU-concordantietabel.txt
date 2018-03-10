@@ -1,0 +1,375 @@
+Wetelementtype	EG-verdrag	VWEU
+Artikel	1
+Artikel	2
+Artikel	3	8
+Artikel	4	119
+Artikel	5
+Artikel	6	11
+Artikel	7
+Artikel	8
+Artikel	9
+Artikel	10
+Artikel	11
+Artikel	11A
+Artikel	12	18
+Artikel	13	19
+Artikel	14	26
+Artikel	15	27
+Artikel	16	14
+Artikel	17	20
+Artikel	18	21
+Artikel	19	22
+Artikel	20	23
+Artikel	21	24
+Artikel	22	25
+Artikel	23	28
+Artikel	24	29
+Artikel	25	30
+Artikel	26	31
+Artikel	27	32
+Artikel	28	34
+Artikel	29	35
+Artikel	30	36
+Artikel	31	37
+Artikel	32	38
+Artikel	33	39
+Artikel	34	40
+Artikel	35	41
+Artikel	36	42
+Artikel	37	43
+Artikel	38	44
+Artikel	39	45
+Artikel	40	46
+Artikel	41	47
+Artikel	42	48
+Artikel	43	49
+Artikel	44	50
+Artikel	45	51
+Artikel	46	52
+Artikel	47	53
+Artikel	48	54
+Artikel	49	56
+Artikel	50	57
+Artikel	51	58
+Artikel	52	59
+Artikel	53	60
+Artikel	54	61
+Artikel	55	62
+Artikel	56	63
+Artikel	57	64
+Artikel	58	65
+Artikel	59	66
+Artikel	60	215
+Artikel	61	67
+Artikel	62	77
+Artikel	63	78
+Artikel	64	72
+Artikel	65	81
+Artikel	66	74
+Artikel	67
+Artikel	68
+Artikel	69
+Artikel	70	90
+Artikel	71	91
+Artikel	72	92
+Artikel	73	93
+Artikel	74	94
+Artikel	75	95
+Artikel	76	96
+Artikel	77	97
+Artikel	78	98
+Artikel	79	99
+Artikel	80	100
+Artikel	81	101
+Artikel	82	102
+Artikel	83	103
+Artikel	84	104
+Artikel	85	105
+Artikel	86	106
+Artikel	87	107
+Artikel	88	108
+Artikel	89	109
+Artikel	90	110
+Artikel	91	111
+Artikel	92	112
+Artikel	93	113
+Artikel	94	115
+Artikel	95	114
+Artikel	96	116
+Artikel	97	117
+Artikel	98	120
+Artikel	99	121
+Artikel	100	122
+Artikel	101	123
+Artikel	102	124
+Artikel	103	125
+Artikel	104	126
+Artikel	105	127
+Artikel	106	128
+Artikel	107	129
+Artikel	108	130
+Artikel	109	131
+Artikel	110	132
+Artikel	111	219
+Artikel	112	283
+Artikel	113	284
+Artikel	114	134
+Artikel	115	135
+Artikel	116
+Artikel	117	141
+Artikel	118
+Artikel	119	143
+Artikel	120	144
+Artikel	121	140
+Artikel	122	140
+Artikel	123	140
+Artikel	124	142
+Artikel	125	145
+Artikel	126	146
+Artikel	127	147
+Artikel	128	148
+Artikel	129	149
+Artikel	130	150
+Artikel	131	206
+Artikel	132
+Artikel	133	207
+Artikel	134
+Artikel	135	33
+Artikel	136	151
+Artikel	137	153
+Artikel	138	154
+Artikel	139	155
+Artikel	140	156
+Artikel	141	157
+Artikel	142	158
+Artikel	143	159
+Artikel	144	160
+Artikel	145	161
+Artikel	146	162
+Artikel	147	163
+Artikel	148	164
+Artikel	149	165
+Artikel	150	166
+Artikel	151	167
+Artikel	152	168
+Artikel	153	169
+Artikel	154	170
+Artikel	155	171
+Artikel	156	172
+Artikel	157	173
+Artikel	158	174
+Artikel	159	175
+Artikel	160	176
+Artikel	161	177
+Artikel	162	178
+Artikel	163	179
+Artikel	164	180
+Artikel	165	181
+Artikel	166	182
+Artikel	167	183
+Artikel	168	184
+Artikel	169	185
+Artikel	170	186
+Artikel	171	187
+Artikel	172	188
+Artikel	173	190
+Artikel	174	191
+Artikel	175	192
+Artikel	176	193
+Artikel	177	208
+Artikel	178
+Artikel	179	209
+Artikel	180	210
+Artikel	181	211
+Artikel	181A	212
+Artikel	182	198
+Artikel	183	199
+Artikel	184	200
+Artikel	185	201
+Artikel	186	202
+Artikel	187	203
+Artikel	188	204
+Artikel	189
+Artikel	190	223
+Artikel	191	224
+Artikel	192	225
+Artikel	193	226
+Artikel	194	227
+Artikel	195	228
+Artikel	196	229
+Artikel	197	230
+Artikel	198	231
+Artikel	199	232
+Artikel	200	233
+Artikel	201	234
+Artikel	202
+Artikel	203
+Artikel	204	237
+Artikel	205	238
+Artikel	206	239
+Artikel	207	240
+Artikel	208	241
+Artikel	209	242
+Artikel	210	243
+Artikel	211
+Artikel	212	249
+Artikel	213	245
+Artikel	214
+Artikel	215	246
+Artikel	216	247
+Artikel	217	248
+Artikel	218	249
+Artikel	219	250
+Artikel	220
+Artikel	221	251
+Artikel	222	252
+Artikel	223	253
+Artikel	224	254
+Artikel	225	256
+Artikel	225A	257
+Artikel	226	258
+Artikel	227	259
+Artikel	228	260
+Artikel	229	261
+Artikel	229A	262
+Artikel	230	263
+Artikel	231	264
+Artikel	232	265
+Artikel	233	266
+Artikel	234	267
+Artikel	235	268
+Artikel	236	270
+Artikel	237	271
+Artikel	238	272
+Artikel	239	273
+Artikel	240	274
+Artikel	241	277
+Artikel	242	278
+Artikel	243	279
+Artikel	244	280
+Artikel	245	281
+Artikel	246	285
+Artikel	247	286
+Artikel	248	287
+Artikel	249	288
+Artikel	250	293
+Artikel	251	294
+Artikel	252
+Artikel	253	296
+Artikel	254	297
+Artikel	255	15
+Artikel	256	299
+Artikel	257
+Artikel	258	301
+Artikel	259	302
+Artikel	260	303
+Artikel	261
+Artikel	262	304
+Artikel	263	305
+Artikel	264	306
+Artikel	265	307
+Artikel	266	308
+Artikel	267	309
+Artikel	268	310
+Artikel	269	311
+Artikel	270
+Artikel	271	316
+Artikel	272	314
+Artikel	273	315
+Artikel	274	317
+Artikel	275	318
+Artikel	276	319
+Artikel	277	320
+Artikel	278	321
+Artikel	279	322
+Artikel	280	325
+Artikel	281
+Artikel	282	335
+Artikel	283	336
+Artikel	284	337
+Artikel	285	338
+Artikel	286	16
+Artikel	287	339
+Artikel	288	340
+Artikel	289	341
+Artikel	290	342
+Artikel	291	343
+Artikel	292	344
+Artikel	293
+Artikel	294	55
+Artikel	295	345
+Artikel	296	346
+Artikel	297	347
+Artikel	298	348
+Artikel	299	355
+Artikel	300	218
+Artikel	301	215
+Artikel	302	220
+Artikel	303	220
+Artikel	304	220
+Artikel	305
+Artikel	306	350
+Artikel	307	351
+Artikel	308	352
+Artikel	309	354
+Artikel	310	217
+Artikel	311
+Artikel	312	356
+Artikel	313	357
+Artikel	314
+Afdeling	Derde deel / Titel VI / Hoofdstuk 1 / Eerste afdeling	Derde deel / Titel VII / Hoofdstuk 1 / Eerste afdeling
+Afdeling	Derde deel / Titel VI / Hoofdstuk 1 / Tweede afdeling	Derde deel / Titel VII / Hoofdstuk 1 / Tweede afdeling
+Afdeling	Vijfde deel / Titel I / Hoofdstuk 1 / Derde afdeling	Zesde deel / Titel I / Hoofdstuk 1 / Vierde afdeling
+Afdeling	Vijfde deel / Titel I / Hoofdstuk 1 / Eerste afdeling	Zesde deel / Titel I / Hoofdstuk 1 / Eerste afdeling
+Afdeling	Vijfde deel / Titel I / Hoofdstuk 1 / Tweede afdeling	Zesde deel / Titel I / Hoofdstuk 1 / Derde afdeling
+Afdeling	Vijfde deel / Titel I / Hoofdstuk 1 / Vierde afdeling	Zesde deel / Titel I / Hoofdstuk 1 / Vijfde afdeling
+Afdeling	Vijfde deel / Titel I / Hoofdstuk 1 / Vijfde afdeling	Zesde deel / Titel I / Hoofdstuk 1 / Zevende afdeling
+Deel	Derde deel	Derde deel
+Deel	Eerste deel	Eerste deel
+Deel	Tweede deel	Tweede deel
+Deel	Vierde deel	Vierde deel
+Deel	Vijfde deel	Zesde deel
+Deel	Zesde deel	Zevende deel
+Hoofdstuk	Derde deel / Titel I / Hoofdstuk 1	Derde deel / Titel II / Hoofdstuk 1
+Hoofdstuk	Derde deel / Titel I / Hoofdstuk 2	Derde deel / Titel II / Hoofdstuk 3
+Hoofdstuk	Derde deel / Titel III / Hoofdstuk 1	Derde deel / Titel IV / Hoofdstuk 1
+Hoofdstuk	Derde deel / Titel III / Hoofdstuk 2	Derde deel / Titel IV / Hoofdstuk 2
+Hoofdstuk	Derde deel / Titel III / Hoofdstuk 3	Derde deel / Titel IV / Hoofdstuk 3
+Hoofdstuk	Derde deel / Titel III / Hoofdstuk 4	Derde deel / Titel IV / Hoofdstuk 4
+Hoofdstuk	Derde deel / Titel VI / Hoofdstuk 1	Derde deel / Titel VII / Hoofdstuk 1
+Hoofdstuk	Derde deel / Titel VI / Hoofdstuk 2	Derde deel / Titel VII / Hoofdstuk 2
+Hoofdstuk	Derde deel / Titel VI / Hoofdstuk 3	Derde deel / Titel VII / Hoofdstuk 3
+Hoofdstuk	Derde deel / Titel VII / Hoofdstuk 1	Derde deel / Titel VIII / Hoofdstuk 1
+Hoofdstuk	Derde deel / Titel VII / Hoofdstuk 2	Derde deel / Titel VIII / Hoofdstuk 3
+Hoofdstuk	Derde deel / Titel VII / Hoofdstuk 3	Derde deel / Titel VIII / Hoofdstuk 3
+Hoofdstuk	Derde deel / Titel VII / Hoofdstuk 4	Derde deel / Titel VIII / Hoofdstuk 5
+Hoofdstuk	Derde deel / Titel XI / Hoofdstuk 1
+Hoofdstuk	Derde deel / Titel XI / Hoofdstuk 2	Derde deel / Titel XI
+Hoofdstuk	Derde deel / Titel XI / Hoofdstuk 3	Derde deel / Titel XII
+Hoofdstuk	Vijfde deel / Titel I / Hoofdstuk 1	Zesde deel / Titel I / Hoofdstuk 1
+Hoofdstuk	Vijfde deel / Titel I / Hoofdstuk 2	Zesde deel / Titel I / Hoofdstuk 2
+Hoofdstuk	Vijfde deel / Titel I / Hoofdstuk 3	Zesde deel / Titel I / Hoofdstuk 3 / Eerste afdeling
+Hoofdstuk	Vijfde deel / Titel I / Hoofdstuk 4	Zesde deel / Titel I / Hoofdstuk 3 / Tweede afdeling
+Hoofdstuk	Vijfde deel / Titel I / Hoofdstuk 5	Zesde deel / Titel I / Hoofdstuk 4
+Titel	Derde deel / Titel I	Derde deel / Titel II
+Titel	Derde deel / Titel II	Derde deel / Titel III
+Titel	Derde deel / Titel III	Derde deel / Titel IV
+Titel	Derde deel / Titel IV	Derde deel / Titel V
+Titel	Derde deel / Titel IX	Vijfde deel / Titel II
+Titel	Derde deel / Titel V	Derde deel / Titel VI
+Titel	Derde deel / Titel VI	Derde deel / Titel VII
+Titel	Derde deel / Titel VII	Derde deel / Titel VIII
+Titel	Derde deel / Titel VIII	Derde deel / Titel IX
+Titel	Derde deel / Titel X	Derde deel / Titel II / Hoofdstuk 2
+Titel	Derde deel / Titel XI	Derde deel / Titel X
+Titel	Derde deel / Titel XII	Derde deel / Titel XIII
+Titel	Derde deel / Titel XIV	Derde deel / Titel XV
+Titel	Derde deel / Titel XIX	Derde deel / Titel XX
+Titel	Derde deel / Titel XV	Derde deel / Titel XVI
+Titel	Derde deel / Titel XVI	Derde deel / Titel XVII
+Titel	Derde deel / Titel XVII	Derde deel / Titel XVIII
+Titel	Derde deel / Titel XVIII	Derde deel / Titel XIX
+Titel	Derde deel / Titel XX	Vijfde deel / Titel III / Hoofdstuk 1
+Titel	Derde deel / Titel XXI	Vijfde deel / Titel III / Hoofdstuk 2
+Titel	Vijfde deel / Titel I	Zesde deel / Titel I
+Titel	Vijfde deel / Titel II	Zesde deel / Titel II
