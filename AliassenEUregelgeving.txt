@@ -4,7 +4,7 @@
 "22009A0610(01)"	"Verdrag van Lugano 2007"
 "22009A0610(01)"	"Verdrag betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken 2007"
 "22009A0610(01)"	"Verdrag van Lugano (2007)"
-"22009A0610(01)"	"EVEX II"
+"22009A0610(01)"	"EVEX II testje"
 "32011L0024"	"Patiëntenrichtlijn"
 "31976L0207"	"Richtlijn inzake de gelijke behandeling van mannen en vrouwen bij de toegang tot en bij arbeid"
 "32003L0059"	"Richtlijn vakbekwaamheid bestuurders"
