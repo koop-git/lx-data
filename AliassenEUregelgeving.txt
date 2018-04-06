@@ -1,5 +1,5 @@
 "CELEX"	"Alias"
-"32008R0767"	"VIS-verordening x"
+"32008R0767"	"VIS-verordening"
 "32009R0810"	"Visumcode"
 "22009A0610(01)"	"Verdrag van Lugano 2007"
 "22009A0610(01)"	"Verdrag betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken 2007"
