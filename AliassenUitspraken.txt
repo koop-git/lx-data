@@ -1,5 +1,5 @@
 "ECLI"	"Alias"
-"ECLI:EU:C:2009:716"	"Sturgeon-arrest TEST 7"
+"ECLI:EU:C:2009:716"	"Sturgeon-arrest"
 "ECLI:EU:T:1996:59"	"Adia Interim"
 "ECLI:EU:C:2012:284"	"Europese Commissie/Koninkrijk der Nederlanden"
 "ECLI:EU:C:2012:191"	"SAG ELV Slovensko c.s./Úrad"
